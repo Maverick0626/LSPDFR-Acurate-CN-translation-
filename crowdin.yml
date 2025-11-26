@@ -1,0 +1,4 @@
+files:
+  - source: /Police Redefined/*.xml
+    translation: '%file_name%zh-CN.xml'
+    translate_attributes: 0
