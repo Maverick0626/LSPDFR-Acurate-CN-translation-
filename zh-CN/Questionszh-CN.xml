@@ -5,15 +5,15 @@
   <Questions>
     <Question Question="Hello.">
       <Answers>
-        <Answer PedMood="Neutral">Hello there, officer.</Answer>
-        <Answer PedMood="Neutral" IsDrunk="true">Hey… how’s it going?</Answer>
-        <Answer PedMood="Neutral" IsHigh="true">Hello there, man. You good?</Answer>
-        <Answer PedMood="Nervous">Uh… hello. Everything okay?</Answer>
-        <Answer PedMood="Nervous" IsDrunk="true">Hi… yeah… I’m fine, I think.</Answer>
-        <Answer PedMood="Nervous" IsHigh="true">Hello… yeah, I’m alright, I guess.</Answer>
-        <Answer PedMood="Mad">Hello. What’s this about?</Answer>
-        <Answer PedMood="Mad" IsDrunk="true">Yeah… hello. You got a reason for this?</Answer>
-        <Answer PedMood="Mad" IsHigh="true">Hi. Let’s get this over with.</Answer>
+        <Answer PedMood="Neutral">警官你好</Answer>
+        <Answer PedMood="Neutral" IsDrunk="true">唔……最最近近咋样？</Answer>
+        <Answer PedMood="Neutral" IsHigh="true">哈！ 你好！！！</Answer>
+        <Answer PedMood="Nervous">额，你好？ 有什么事情吗？</Answer>
+        <Answer PedMood="Nervous" IsDrunk="true">唔……你好 我……我没……没事</Answer>
+        <Answer PedMood="Nervous" IsHigh="true">哈！你好！我现在嗨得很！</Answer>
+        <Answer PedMood="Mad">嗯？ 什么事？我赶时间</Answer>
+        <Answer PedMood="Mad" IsDrunk="true">啊，你……你好 你……搞……搞什么？</Answer>
+        <Answer PedMood="Mad" IsHigh="true"> Let’s get this over with.</Answer>
         <Answer PedMood="Sad">Hello… just another day, I guess.</Answer>
         <Answer PedMood="Sad" IsDrunk="true">Hi… yeah… whatever.</Answer>
         <Answer PedMood="Sad" IsHigh="true">Hello… I’m fine, I guess.</Answer>
