@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PatDownItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
    <RedItems>
-      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">一把隐藏的手枪</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">一把小口径手枪</Item>
-      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">一支不可追查的紧凑火炮</Item>
-      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">一个轻型手枪隐藏在夹克塞姆中</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">带有存档序列号的长枪</Item>
-      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">一个紧凑的服务手枪已经启动了</Item>
-      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">一个小左轮手枪包裹着衣服</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">带有已移除的制造商标记的手枪框架</Item>
-      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">一把手枪，带有故意沙子序列号</Item>
-      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">一个短桶服务手枪</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">一个未注册的手枪</Item>
-      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">一个口袋内的紧凑步枪手枪</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">隐藏的手枪</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">小口径手枪</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">无序列号紧凑型步枪</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">轻型手枪，藏在夹克里</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">无序列号步枪</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">紧凑型手枪，藏在靴子里</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">小左轮，包在衣服里</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">手枪枪架，看不清厂家</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">无序列号手枪</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">紧凑型短管手枪</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">未注册的手枪</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">类步枪型手枪，放在口袋里</Item>
       <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">枪管套筒（序列号刮花了）</Item>
-      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">一个带有破碎手枪的服务式手枪</Item>
-      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">一个带去标记的短桶手枪</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">一个把手枪折叠到一个片段</Item>
-      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a 口袋尺寸左轮手枪隐藏在一间线上</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">制式手枪（握把磨损了）</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">短管手枪（枪身标记不清）</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">藏在隔层里的折叠手枪</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">藏在内衬里的袖珍左轮手枪</Item>
       <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">背包中的小手枪</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">带有贬值标记的步枪接收器</Item>
-      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">一个带有腐蚀串行板的手枪</Item>
-      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">储存在一个案例中的精密战术手枪</Item>
-      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a 左轮手枪用硬币</Item>
-      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">一把半自动手枪，带有市场后手枪</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">标记不清的步枪弹匣</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">序列号被磨掉的手枪</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">放在盒子里的紧凑型战术手枪</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">藏在衣服里的左轮手枪</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">装备了自定义握把的半自动手枪</Item>
       <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">一个隐藏的单发手枪，带去的印章</Item>
       <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">一个轻量体重手枪隐藏在脚本中</Item>
       <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a 一堆栈下的单堆积手枪</Item>
